@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Codersbay_orientierung:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Codersbay_orientierung_jar</output-path>
+    <root id="archive" name="Codersbay_orientierung.jar">
+      <element id="module-output" name="Codersbay_orientierung" />
+    </root>
+  </artifact>
+</component>
